@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/keien-ibun-seigo",
  "yomi": "けいえんいぶんせいご",
  "category": "歌学書",
- "description": null,
+ "description": {
+  "kind": "正誤表",
+  "era": "明治期",
+  "author": "編者 佐佐木信綱",
+  "desc": "「桂園遺文」の翻刻本文に対する正誤と補遺。抜け落ちた歌を、頁・行を示して補う。"
+ },
  "editions": [
   {
    "pid": "993382",
